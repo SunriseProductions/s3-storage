@@ -10,3 +10,6 @@ To setup S3 storage please see our [Installation Guide](https://github.com/Sunri
 1. Clone the repository
 2. Make some changes
 3. Submit a pull request
+
+## Mailing List
+https://groups.google.com/forum/#!forum/s3-storage
