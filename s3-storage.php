@@ -32,7 +32,7 @@ if (!class_exists('S3_Storage')) {
 
         private function includes()
         {
-            require_once('includes/libraries/aws.phar');
+            require_once('includes/libraries/aws/aws.phar');
 
             include_once('includes/template-functions.php');
 
